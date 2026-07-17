@@ -5,3 +5,4 @@
 odc*
 Extractors/venv/*
 .vscode/launch.json
+*.txt
